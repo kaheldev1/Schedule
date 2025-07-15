@@ -1,0 +1,7 @@
+/* Custom styles specific to your schedule page */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Add any other custom styles here if needed,
+   though Tailwind handles most of the design */
